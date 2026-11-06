@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "skill": "before-coding",
+  "skillVersion": "0.1.0",
+  "initializedAt": "YYYY-MM-DD",
+  "runtimes": ["codex"],
+  "documents": {
+    "AGENTS.md": "created",
+    "CLAUDE.md": "not-applicable",
+    "docs/product-contract.md": "created",
+    "docs/architecture.md": "created",
+    "docs/verification.md": "created",
+    "docs/changes/README.md": "created"
+  }
+}

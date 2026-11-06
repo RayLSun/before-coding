@@ -1,0 +1,7 @@
+# Backup directories created by the install, initialization, and update scripts.
+*.backup-*
+
+# Local editor and operating-system files.
+.DS_Store
+Thumbs.db
+*.swp

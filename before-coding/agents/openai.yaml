@@ -1,0 +1,6 @@
+interface:
+  display_name: "Before Coding"
+  short_description: "Set up project docs and clarify requirements"
+  default_prompt: "Use $before-coding to establish this project's development baseline and clarify its requirements."
+policy:
+  allow_implicit_invocation: true
